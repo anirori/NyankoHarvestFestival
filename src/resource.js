@@ -1,12 +1,13 @@
 var res = {
   bomb_png: "res/S/bug.png",
-  cart_png: "res/S/cat0.png",
-  strawberry_png: "res/strawberry.png",
+  cat_png: "res/S/cat0.png",
+  apple_png: "res/S/apple.png",
 //  leftbutton_png: "res/leftbutton.png",
 //  rightbutton_png: "res/rightbutton.png",
   background_png: "res/S/game_bg.png",
 //  touchorigin_png: "res/touchorigin.png",
 //  touchend_png: "res/touchend.png"
+  bgm_main:"res/bgm.mp3"
 };
 
 var g_resources = [];
