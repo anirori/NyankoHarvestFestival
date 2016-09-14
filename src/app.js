@@ -46,8 +46,8 @@ var game = cc.Layer.extend({
     this.addChild(topLayer ,0);
     cat = cc.Sprite.create(res.cat0_png);
     basket = cc.Sprite.create(res.basket_png);
-    topLayer.addChild(cat, 2);//前面
-    topLayer.addChild(basket, 0);//背面
+    topLayer.addChild(cat, 2);//親、前面
+    topLayer.addChild(basket, 0);//子、背面
     cat.addChild(basket, 0);
 
     basket.setPosition(280,81)//籠の初期位置
