@@ -1,6 +1,9 @@
 var res = {
-  bomb_png: "res/S/bug.png",
-  cat_png: "res/S/cat0.png",
+  bug_png: "res/S/bug.png",
+  basket_png: "res/S/basket1.png",
+  cat0_png: "res/S/cat0.png",
+  cat1_png: "res/S/cat1.png",
+  cat2_png: "res/S/cat2.png",
   apple_png: "res/S/apple.png",
 //  leftbutton_png: "res/leftbutton.png",
 //  rightbutton_png: "res/rightbutton.png",
